@@ -26321,6 +26321,7 @@ sslsc.com
 sslybs.com
 ssntander.com
 sspotify.com
+steampowered.co
 stotify.com
 suge.biz
 suge.com
@@ -28578,6 +28579,7 @@ ubay.net
 ubay.org
 ubay.store
 ubay.tk
+ubisoft.co
 ubs.biz
 ubs.info
 ubs.kim
